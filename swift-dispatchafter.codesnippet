@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>swift-dispatchafter</string>
+	<string>snp-dispatchafter</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>CodeBlock</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
 	<string>DispatchQueue.main.asyncAfter(deadline: .now() + .seconds(&lt;#seconds#&gt;)) {
-    
+
 }</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>E772ABB6-7616-42C2-9F95-9884388957EE</string>
